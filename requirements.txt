@@ -1,1 +1,1 @@
-Flask==latest
+Flask==3.0.1
